@@ -1,0 +1,22 @@
+{
+  "name": "cypress_circleci",
+  "version": "1.0.0",
+  "description": "A demonstration setting up cypress with circleci",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ovansa/cypress_circleci.git"
+  },
+  "author": "Muhammed Ibrahim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ovansa/cypress_circleci/issues"
+  },
+  "homepage": "https://github.com/ovansa/cypress_circleci#readme",
+  "devDependencies": {
+    "cypress": "^6.6.0"
+  }
+}
